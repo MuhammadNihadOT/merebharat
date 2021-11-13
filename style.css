@@ -109,3 +109,7 @@ section .btntwo{
     80%{content: "Delhi";}
     100%{content: "Goa";}
 }
+.menu-items:hover{
+    color: #00b894;
+    font-weight: 700;
+}
